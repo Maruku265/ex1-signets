@@ -1,0 +1,15 @@
+[
+    {
+    "id": "sig0001",
+    "titre": "Youtube",
+    "couleur": "rouge",
+    "dateMod": "2021-02-13"
+    },
+
+    {
+    "id": "sig0002",
+    "titre": "Twitter",
+    "couleur": "bleu",
+    "dateMod": "2021-02-13"
+    }
+]
